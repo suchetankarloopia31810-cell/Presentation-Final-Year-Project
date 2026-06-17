@@ -4,12 +4,14 @@
 **Presenters:** Suchetan Karloopia (2022BCHE019), Miran Haider (2022BCHE021), Akshita Sen (2022BCHE037)
 **Guide:** Dr. Fasil Qayoom Mir
 
+> Regenerated from the updated `BIO-COMPOSITES PPT.pdf` (latest version in the repository).
+
 ---
 
 ## How to use this script
 - This script provides word-for-word speaking notes for all 24 slides.
 - A suggested speaker split is given (S1 = Suchetan, S2 = Miran, S3 = Akshita) — adjust as you like.
-- Total target time: **~14–16 minutes** of speaking + Q&A. Suggested per-slide timing is noted.
+- Total target time: **~13–15 minutes** of speaking + Q&A. Suggested per-slide timing is noted.
 - Lines in *[italics in brackets]* are stage directions / things to point at, not to be read aloud.
 
 ---
@@ -65,25 +67,21 @@ So our **solution approach** is to engineer a bio-composite using a natural bind
 
 "Thank you. Building on that, we set two clear objectives.
 
-**Objective one — develop eco-friendly bio-composite panels.** We fabricate fully bio-based insulation panels using waste aquatic biomass — primarily water hyacinth — bound with food-grade corn starch, with no synthetic polymers and no chemical crosslinkers at all.
+**Objective one — develop eco-friendly bio-composite panels.** We fabricate fully bio-based insulation panels using waste aquatic biomass — primarily **water lily** — bound with food-grade corn starch, with no synthetic polymers and no chemical crosslinkers at all.
 
-**Objective two — optimize properties through systematic testing.** We characterize and optimize the physical, mechanical, and thermal properties by systematically varying two things: particle size and the biomass-to-binder ratio. The target is insulation-grade thermal conductivity with adequate strength.
+**Objective two — optimize properties through systematic testing.** We characterize and optimize the physio-mechanical-thermal properties by systematically varying two things: particle size and the biomass-to-binder ratio. The target is insulation-grade thermal conductivity with adequate strength.
 
-Our **scope** covers: lab-scale fabrication of four formulations; full physico-mechanical-thermal characterization — moisture content, bulk density, water absorption, compressive strength, and thermal conductivity; and SEM microstructural analysis. Flammability testing, hydrophobic treatments, and a full life-cycle assessment are deliberately kept outside the present scope as future work."
+Our **scope** covers: lab-scale fabrication of four formulations; full physio-mechanical-thermal characterization — moisture content, bulk density, water absorption, unconfined compression strength, and thermal conductivity; and SEM microstructural analysis of S2 and S3. Flammability testing, hydrophobic treatments, and a full life-cycle assessment are deliberately kept outside the present scope as future work."
 
 ---
 
-## SLIDE 6 — Incorporation of Suggestions *(Speaker: S2 — ~70 sec)*
+## SLIDE 6 — Incorporation of Suggestions *(Speaker: S2 — ~55 sec)*
 
-"Based on our mid-term evaluation feedback, we made four key improvements.
+"Based on our mid-term evaluation feedback, we made two key improvements.
 
 First, **binder-system optimization** — instead of a single formulation, we systematically varied biomass-to-starch ratios at 90:10 and 70:30 to find the optimal binder content and quantify the strength–moisture–thermal trade-off.
 
-Second, **enhanced mechanical testing** — we added unconfined compressive strength testing on a Baker Type K12 apparatus, so we have hard numbers for load-bearing capacity instead of just qualitative observations.
-
-Third, **particle-size classification** — we used ASTM E11 sieving to separate coarse fractions above 3 millimetres from fine fractions of 1 to 1.5 millimetres, to study the effect of particle size.
-
-And fourth, **statistical rigour** — every test was run with three replicates, with error bars of plus-minus one standard deviation, and goodness-of-fit reporting for thermal conductivity, so our conclusions are statistically reliable."
+Second, **enhanced mechanical testing** — we added unconfined compressive strength testing on a Baker Type K12 apparatus, giving us hard numbers for load-bearing capacity — that is, qu and Su — instead of just qualitative observations of panel integrity."
 
 ---
 
@@ -97,7 +95,7 @@ And fourth, **statistical rigour** — every test was run with three replicates,
 
 ## SLIDE 8 — Raw Materials & Biomass Preparation *(Speaker: S2 — ~80 sec)*
 
-"Our materials are simple and fully natural. The **primary biomass is water hyacinth** — a fibrous, cellulose-rich material that acts both as reinforcement and as the porous insulating phase. **Water lily** is used as a supplementary biomass reinforcement. The **binder is food-grade corn starch** — a biodegradable matrix that binds the fibres after gelatinisation. And **water** is the processing medium that disperses the biomass and gelatinises the starch.
+"Our materials are simple and fully natural. The **primary biomass is water hyacinth** — a fibrous, cellulose-rich material that acts both as reinforcement and as the porous insulating phase. **Water lily** is used as a supplementary aquatic biomass reinforcement. The **binder is food-grade corn starch** — a biodegradable matrix that binds the fibres after gelatinisation. And **water** is the processing medium that disperses the biomass and gelatinises the starch.
 
 The **preparation** has four steps: collection from Dal Lake and washing to remove debris; sun-drying for 5 to 7 days, during which the colour goes from green to tan-brown; oven-drying at 103 degrees Celsius for 24 hours; and size reduction in a mixer-grinder.
 
@@ -117,7 +115,7 @@ This gives us **four formulations**:
 - **S3** — fine particles at a 90:10 biomass-to-starch ratio. Improved binding and the best balance.
 - **S4** — fine particles at 70:30. A dense, compact panel.
 
-For **moulding and curing**: flat panels were cold-pressed in 50-by-50-millimetre steel moulds; cylinders for compression testing used stainless-steel moulds of 30 mm diameter and 25 mm height. Everything was cold-pressed, demoulded, and oven-dried at 103 degrees for about 24 hours.
+For **moulding and curing**: flat panels were cold-pressed in 50-by-50-millimetre steel moulds; the cylinders for both compression and thermal-conductivity testing used stainless-steel moulds of 30 mm diameter and 25 mm height. Everything was cold-pressed, demoulded, and oven-dried at 103 degrees for about 24 hours.
 
 The **design logic** is to vary particle size and starch content — 0, 10, and 30 percent — so we can study the trade-off between strength, moisture sensitivity, and insulation."
 
@@ -125,7 +123,7 @@ The **design logic** is to vary particle size and starch content — 0, 10, and 
 
 ## SLIDE 10 — Process Flowsheet *(Speaker: S2 — ~40 sec)*
 
-*[This slide is the mandatory process flowsheet — a diagram.]*
+*[This slide is the process flowsheet — a diagram.]*
 
 "This flowsheet summarizes the entire process end-to-end. *[Trace the diagram with your hand.]* We start with **raw biomass collection** from Dal Lake, then **washing**, then **sun-drying** followed by **oven-drying**. The dried biomass goes through **size reduction and sieve classification**. In parallel, we **gelatinise the corn starch**. The two streams are **mixed**, then **cold-pressed** in moulds, **demoulded**, and finally **oven-dried** to give the finished bio-composite panel, which then moves to characterization."
 
@@ -149,13 +147,13 @@ The **design logic** is to vary particle size and starch content — 0, 10, and 
 
 "Thank you. Every panel was tested against established standards, with three replicates each.
 
-- **Moisture content** by gravimetric method per ASTM D4442.
+- **Moisture content** per ASTM D4442 — initial minus final weight over initial weight.
 - **Bulk density** per ASTM D1037 — mass over volume.
 - **Water absorption** per ASTM D570, using a 2-hour soak.
-- **Unconfined compressive strength** on a Baker Type K12 apparatus, giving us the maximum stress, the shear strength, and a failure strain of about 16 percent.
+- **Unconfined compressive strength** on a Baker Type K12 apparatus, with a calibration of 2.256 newtons per division — giving us qu, the shear strength Su, and a failure strain of about 16 percent.
 - And **thermal conductivity** using a KD2 Pro TR-3 sensor following ASTM D5334 — a transient line-source method, with goodness-of-fit kept below 2.0.
 
-These five tests give us a complete physico-mechanical-thermal picture of each formulation."
+These five tests give us a complete physio-mechanical-thermal picture of each formulation."
 
 ---
 
@@ -175,7 +173,7 @@ These five tests give us a complete physico-mechanical-thermal picture of each f
 
 *[Point to Fig. 14.]* For **bulk density**, S1 is highest at 1.087 because the coarse particles pack tightly, while the others sit between 0.87 and 0.99 grams per cc.
 
-The **key insight**: at 10 percent starch, S3 fills the inter-particle voids — giving a density of 0.992 — without excessive moisture retention. That's a balanced trade-off, and it's a theme you'll see repeated."
+The **important note** here: at 10 percent starch, S3 fills the inter-particle voids — giving a density of 0.992 — without excessive moisture retention. That's a balanced trade-off, and it's a theme you'll see repeated."
 
 ---
 
@@ -201,8 +199,8 @@ One more point — all samples failed at the same strain, about 16 percent, whic
 
 *[Point to the consolidated results table.]* If you look across all properties together, the story becomes clear:
 - **S2** has the best insulation but is mechanically weak — 94 kilopascals.
-- **S3** is the optimal formulation: the starch menisci bridge the fibre junctions, giving the 97 percent strength jump, while the pores are retained so it stays insulation-grade. Best of both worlds.
-- **S4** fails on both counts — the dense starch fills the voids and the high moisture replaces insulating air with conductive water, tripling the conductivity.
+- **S3** is the optimal formulation: the starch bonds the fibre junctions, giving the 97 percent strength jump, while the pores are retained so it stays insulation-grade. Best balance.
+- **S4** fails on both counts — the dense starch fills the voids, the high moisture replaces insulating air with conductive water, and the starch itself also conducts heat — together tripling the conductivity.
 
 So our clear winner is **S3, the 90:10 biomass-to-starch formulation.**"
 
@@ -220,9 +218,9 @@ So our clear winner is **S3, the 90:10 biomass-to-starch formulation.**"
 
 "The SEM images explain everything we saw in the numbers.
 
-*[Point to S2 images.]* In the **binder-less S2 panel**, we see an open, porous fibre network with large voids, randomly oriented fibres, and uncoated surfaces. The fibres are held together purely by mechanical interlocking — there's no binder bridging them. This is exactly why it's weak and absorbs so much water. On the plus side, the natural tubular cell structure traps air, which is good for insulation.
+*[Point to S2 images.]* In the **binder-less S2 panel**, we see an open, porous fibre network with large voids, randomly oriented fibres, and uncoated surfaces with exposed cell-wall microfibrils. The fibres are held together purely by mechanical interlocking — there's no binder bridging them. This is exactly why it's weak and absorbs so much water. On the plus side, the natural tubular cell structure traps air, which is good for insulation.
 
-*[Point to S3 images.]* In the **90:10 S3 panel**, the gelatinised starch coats the fibre surfaces and — crucially — forms **menisci that bridge the fibre junctions.** These act as load-transfer points. There's good fibre-starch adhesion with no pull-out cavities. And importantly, the macro-pores are still retained even with 10 percent starch — which is why it stays insulation-grade.
+*[Point to S3 images.]* In the **90:10 S3 panel**, the gelatinised starch infiltrates the network and coats the fibre surfaces, and — crucially — **bridges the fibre junctions**, creating load-transfer points. There's good fibre-starch adhesion with no cavities. And importantly, the macro-pores are still retained even with 10 percent starch — which is why it stays insulation-grade.
 
 *[Point to comparison table.]* So the microstructure directly explains the macroscopic results: S2 is weak with high water absorption; S3 is strong, with moderate water absorption, while keeping insulation-grade conductivity. The starch bridging is the key mechanism."
 
@@ -246,11 +244,11 @@ One — we successfully fabricated four bio-composite formulations from Dal Lake
 
 Two — both S2 and S3 achieved insulation-grade thermal conductivities — 0.0577 and 0.0608 — both below the ASTM C168 threshold of 0.065.
 
-Three — 10 weight-percent corn starch, our S3 formulation, is the optimal binder: it delivers a 97 percent strength improvement while staying insulation-grade.
+Three — 10 weight-percent corn starch, our S3 formulation, is the optimal binder: it delivers a 97 percent strength improvement, with qu of 186 kilopascals, while staying insulation-grade.
 
-Four — too much starch is counterproductive: S4 at 30 percent degrades both thermal and mechanical properties because of its moisture-plasticised matrix.
+Four — too much starch is counterproductive: S4 at 30 percent degrades both thermal and mechanical properties because of its moisture-plasticised matrix — 41 percent moisture, conductivity of 0.1846, and strength of just 27 kilopascals.
 
-And five — our SEM analysis confirms the mechanism: starch menisci at fibre junctions act as load-transfer points while preserving the insulating pore structure.
+And five — our SEM analysis confirms the mechanism: starch at fibre junctions acts as load-transfer points while preserving the insulating pore structure.
 
 The **overall significance** is that we've demonstrated the technical feasibility of turning an invasive Dal Lake weed into a viable, biodegradable building-insulation material — solving a waste problem and a sustainability problem at the same time."
 
@@ -260,7 +258,7 @@ The **overall significance** is that we've demonstrated the technical feasibilit
 
 "There's a clear path forward.
 
-**Immediate future work**: apply a hydrophobic surface treatment — beeswax or alkoxysilane — to tackle the high water absorption; carry out flammability testing such as LOI, UL-94, and cone calorimetry; do long-term durability testing under humidity and temperature cycling; and run a full life-cycle assessment.
+**Immediate future work**: apply a hydrophobic surface treatment — beeswax or linseed oil — to tackle the high water absorption, following Chaireh et al.; carry out flammability testing — using boric acid as a flame retardant, with UL-94 rating and cone calorimetry; do long-term durability testing under humidity and temperature cycling; and run a full life-cycle assessment.
 
 For **scale-up**, we propose three phases: first, moving from hand-pressing to a semi-automatic platen press for consistent compaction; second, scaling up to larger 300-by-300 and 600-by-600 millimetre panels; and third, a pilot production run with local weed-management cooperatives.
 
@@ -302,8 +300,8 @@ With that, we conclude our presentation. Thank you all for your attention — we
 **Q1. What is novel about your work — water hyacinth composites already exist in the literature?**
 Most prior work uses synthetic binders — natural rubber latex, cement, epoxy, or polyester — which compromise biodegradability. Our novelty is a **fully bio-based panel using only food-grade corn starch**, with no synthetic polymers or crosslinkers, combined with a **systematic study of particle size and binder ratio**, and using **locally sourced Dal Lake waste weed**. We also link microstructure (SEM) to macro-properties.
 
-**Q2. Why water hyacinth specifically?**
-It is the dominant invasive weed in Dal Lake, freely available as a de-weeding waste stream, and it is fibrous and cellulose-rich — which gives both reinforcement and a porous, air-trapping structure ideal for insulation.
+**Q2. Why water hyacinth and water lily specifically?**
+They are the dominant invasive weeds in Dal Lake, freely available as a de-weeding waste stream, and they are fibrous and cellulose-rich — which gives both reinforcement and a porous, air-trapping structure ideal for insulation. Water lily fibre in particular has shown low-thermal-conductivity potential in recent literature.
 
 **Q3. Why corn starch and not another binder?**
 It is food-grade, cheap, abundant, biodegradable, and gelatinises easily with just heat and water — keeping the panel fully bio-based and low-energy. No toxic chemistry is involved.
@@ -337,16 +335,16 @@ Three replicates give a defensible mean with standard deviation for reproducibil
 Because starch is hygroscopic — at 30% it absorbs a lot of moisture (MC = 41%), forming a soft, plasticised matrix. The water-softened starch fails easily, so strength drops to 26.8 kPa despite more binder.
 
 **Q12. Why is S3 stronger than S2 by 97%?**
-The 10% gelatinised starch forms menisci that bridge fibre junctions, creating load-transfer points — confirmed by SEM. S2 has only mechanical interlocking between bare fibres.
+The 10% gelatinised starch bridges and bonds the fibre junctions, creating load-transfer points — confirmed by SEM. S2 has only mechanical interlocking between bare fibres.
 
 **Q13. Why not just use S2 — it has the lowest thermal conductivity?**
 S2 insulates best (0.0577) but is mechanically weak (94 kPa) and absorbs the most water. S3 sacrifices almost nothing thermally (0.0608, still insulation-grade) while nearly doubling strength — the best overall balance.
 
 **Q14. Why does thermal conductivity jump 3× for S4?**
-Two reasons: dense starch fills the air-filled pores (air is the insulator), and high moisture replaces trapped air with water, which conducts heat far better than air. Both raise K to 0.1846.
+Three reasons: dense starch fills the air-filled pores (air is the insulator); high moisture replaces trapped air with water, which conducts heat far better than air; and the starch itself conducts heat. Together these raise K to 0.1846.
 
 **Q15. Your water absorption is very high (280–658%). Isn't that a deal-breaker?**
-It is currently the main limitation. It stems from the hydrophilic, porous lignocellulosic structure. It is addressable with hydrophobic surface treatments (beeswax/alkoxysilane) — our immediate future work — and in practice insulation is installed within protected wall cavities, not exposed.
+It is currently the main limitation. It stems from the hydrophilic, porous lignocellulosic structure. It is addressable with hydrophobic surface treatments (beeswax or linseed oil) — our immediate future work — and in practice insulation is installed within protected wall cavities, not exposed.
 
 **Q16. All samples failed at ~16% strain — what does that tell you?**
 That the biomass fibre skeleton, not the starch, governs deformation. Starch increases strength but doesn't change the failure strain — it reinforces the same fibre network.
@@ -391,10 +389,10 @@ A valid concern for a bio-material. Long-term durability under cyclic humidity a
 ## F. Likely "weakness / improvement" questions
 
 **Q28. What is the single biggest limitation of your work?**
-High water absorption — to be solved with hydrophobic treatments.
+High water absorption — to be solved with hydrophobic treatments (beeswax or linseed oil).
 
 **Q29. If you had more time, what would you do first?**
-Apply and test a hydrophobic coating, then run flammability tests, since fire safety and moisture are the two main barriers to real building use.
+Apply and test a hydrophobic coating, then run flammability tests using a boric-acid flame retardant, since fire safety and moisture are the two main barriers to real building use.
 
 **Q30. Could the results change at larger scale?**
 Possibly — hand-pressing gives variable compaction, so a platen press should give more uniform density and likely more consistent (and possibly better) strength and thermal values. That's exactly why scale-up testing is planned.
