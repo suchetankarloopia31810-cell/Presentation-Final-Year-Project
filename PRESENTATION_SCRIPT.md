@@ -291,9 +291,110 @@ With that, we conclude our presentation. Thank you all for your attention — we
 - S3 strength gain over S2: **+97%**
 - Failure strain (all samples): **~16%**
 
-## Likely Q&A — quick answers
-- **Why is S4 weaker despite more starch?** Excess starch absorbs too much moisture (MC 41%), forming a soft, plasticised matrix that fails early.
-- **Why not just maximize insulation with S2?** S2 is mechanically too weak (94 kPa) for load-bearing panels; S3 balances strength and insulation.
-- **Biggest limitation?** High water absorption — addressed by planned hydrophobic treatments.
-- **Is it fire-safe?** Not yet tested; flammability testing (LOI, UL-94, cone calorimetry) is immediate future work.
-- **What about cost/energy?** Very low embodied energy — only sun-drying and cold-pressing; raw material is free waste weed.
+---
+
+# POSSIBLE QUESTIONS DURING THE PRESENTATION (Viva / Panel Q&A)
+
+*Prepare these in advance. Answers are written so you can speak them naturally. Decide beforehand who answers what (materials/methodology → S2, results/SEM → S3, motivation/scope/future → S1).*
+
+## A. Motivation, Scope & Novelty
+
+**Q1. What is novel about your work — water hyacinth composites already exist in the literature?**
+Most prior work uses synthetic binders — natural rubber latex, cement, epoxy, or polyester — which compromise biodegradability. Our novelty is a **fully bio-based panel using only food-grade corn starch**, with no synthetic polymers or crosslinkers, combined with a **systematic study of particle size and binder ratio**, and using **locally sourced Dal Lake waste weed**. We also link microstructure (SEM) to macro-properties.
+
+**Q2. Why water hyacinth specifically?**
+It is the dominant invasive weed in Dal Lake, freely available as a de-weeding waste stream, and it is fibrous and cellulose-rich — which gives both reinforcement and a porous, air-trapping structure ideal for insulation.
+
+**Q3. Why corn starch and not another binder?**
+It is food-grade, cheap, abundant, biodegradable, and gelatinises easily with just heat and water — keeping the panel fully bio-based and low-energy. No toxic chemistry is involved.
+
+**Q4. Why did you exclude flammability, hydrophobic treatment, and LCA from the scope?**
+To keep the project focused and rigorous within the available time. We first established the core feasibility — strength and thermal performance. Those three are the logical next steps and are listed explicitly as future work.
+
+## B. Materials & Methodology
+
+**Q5. Why oven-dry at 103±2 °C specifically?**
+It is the standard temperature (per ASTM moisture/oven-dry procedures) to remove free and bound moisture without thermally degrading the lignocellulosic fibres.
+
+**Q6. Why classify into coarse (>3 mm) and fine (1.0–1.5 mm) fractions?**
+To study how particle size affects packing density and inter-particle bonding. Coarse particles pack densely but interlock weakly (S1 fractured); fine particles have more surface area, giving more cohesive panels.
+
+**Q7. Why is starch heated to 80–90 °C?**
+That is the gelatinisation range of corn starch — the granules swell and rupture, forming a viscous adhesive gel that coats and bonds the fibres on drying.
+
+**Q8. Why only 15% water for S1 and S2?**
+It acts purely as a processing aid to disperse the biomass and help compaction; those samples have no binder, so we keep water minimal.
+
+**Q9. Why cold-pressing instead of hot-pressing?**
+To keep embodied energy low and avoid thermally degrading the fibres; curing/setting happens during the subsequent oven-drying step.
+
+**Q10. Why n = 3 replicates and not more?**
+Three replicates give a defensible mean with standard deviation for reproducibility within lab time and material constraints. More would improve statistics — a fair future improvement.
+
+## C. Results — interpretation
+
+**Q11. Why is S4 (30% starch) the weakest, even though it has the most binder? (counter-intuitive)**
+Because starch is hygroscopic — at 30% it absorbs a lot of moisture (MC = 41%), forming a soft, plasticised matrix. The water-softened starch fails easily, so strength drops to 26.8 kPa despite more binder.
+
+**Q12. Why is S3 stronger than S2 by 97%?**
+The 10% gelatinised starch forms menisci that bridge fibre junctions, creating load-transfer points — confirmed by SEM. S2 has only mechanical interlocking between bare fibres.
+
+**Q13. Why not just use S2 — it has the lowest thermal conductivity?**
+S2 insulates best (0.0577) but is mechanically weak (94 kPa) and absorbs the most water. S3 sacrifices almost nothing thermally (0.0608, still insulation-grade) while nearly doubling strength — the best overall balance.
+
+**Q14. Why does thermal conductivity jump 3× for S4?**
+Two reasons: dense starch fills the air-filled pores (air is the insulator), and high moisture replaces trapped air with water, which conducts heat far better than air. Both raise K to 0.1846.
+
+**Q15. Your water absorption is very high (280–658%). Isn't that a deal-breaker?**
+It is currently the main limitation. It stems from the hydrophilic, porous lignocellulosic structure. It is addressable with hydrophobic surface treatments (beeswax/alkoxysilane) — our immediate future work — and in practice insulation is installed within protected wall cavities, not exposed.
+
+**Q16. All samples failed at ~16% strain — what does that tell you?**
+That the biomass fibre skeleton, not the starch, governs deformation. Starch increases strength but doesn't change the failure strain — it reinforces the same fibre network.
+
+**Q17. How do your values compare with commercial insulation?**
+Our best K (0.0577–0.0608 W/m·K) is comparable to/below the ASTM C168 insulation threshold (0.065) and in the range of glass wool/EPS (~0.03–0.06). Mechanically it is lower than synthetic boards, which is expected for a first-generation bio-panel.
+
+**Q18. What does "insulation-grade" mean exactly?**
+Thermal conductivity at or below the 0.065 W/m·K reference threshold of ASTM C168 — both S2 and S3 qualify.
+
+## D. Specific definitions (likely "what is..." questions)
+
+**Q19. What are qu and Su?**
+**qu** is the unconfined compressive strength — the peak axial stress before failure with no lateral confinement (qu = σ_max). **Su** is the undrained shear strength, equal to qu/2, because in an unconfined test the sample fails in shear and from Mohr's circle the maximum shear stress is half the axial stress.
+
+**Q20. What is gelatinisation?**
+The process where starch granules, heated in water above ~80 °C, swell, rupture, and release amylose/amylopectin to form a viscous, adhesive paste — this is what binds the fibres.
+
+**Q21. What is the transient line-source method (KD2 Pro)?**
+A needle probe heats the sample at a known rate and measures the temperature rise over time; thermal conductivity is derived from that response. Syx < 2.0 confirms a good measurement fit.
+
+**Q22. What is eutrophication (Dal Lake context)?**
+Excess nutrients (from sewage/runoff) trigger explosive aquatic plant and weed growth, depleting oxygen and degrading the lake — which is why weed is continuously removed, giving us free biomass.
+
+## E. Applications, Sustainability & Scale-up
+
+**Q23. Where would this material actually be used?**
+Non-load-bearing thermal insulation — wall cavities, ceiling/roof insulation, partition panels — where it is protected from direct water and structural loads.
+
+**Q24. Is it really sustainable / what's the environmental benefit?**
+Yes: it valorises an invasive waste weed (dual-problem solving), uses no synthetic additives, has very low embodied energy (sun-drying + cold-pressing), and is fully biodegradable/compostable at end of life, unlike petroleum-based insulation.
+
+**Q25. How will you scale this beyond the lab?**
+Three phases: (1) move from hand-pressing to a semi-automatic platen press for consistent compaction; (2) scale moulds to 300×300 and 600×600 mm; (3) pilot production with local weed-management cooperatives.
+
+**Q26. Is it economically viable?**
+The raw material is essentially free waste, processing energy is minimal, and corn starch is cheap — so material cost is low. A full techno-economic analysis is part of future work alongside the LCA.
+
+**Q27. What about durability / mould / biodegradation in service?**
+A valid concern for a bio-material. Long-term durability under cyclic humidity and temperature is listed as future work; in service the panel would be sealed within protected cavities, and hydrophobic treatment would reduce moisture-driven degradation and mould risk.
+
+## F. Likely "weakness / improvement" questions
+
+**Q28. What is the single biggest limitation of your work?**
+High water absorption — to be solved with hydrophobic treatments.
+
+**Q29. If you had more time, what would you do first?**
+Apply and test a hydrophobic coating, then run flammability tests, since fire safety and moisture are the two main barriers to real building use.
+
+**Q30. Could the results change at larger scale?**
+Possibly — hand-pressing gives variable compaction, so a platen press should give more uniform density and likely more consistent (and possibly better) strength and thermal values. That's exactly why scale-up testing is planned.
